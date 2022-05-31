@@ -1,5 +1,5 @@
-### Hi there 👋
-my
+### Mabuhay! 👋
+Welcome to my GitHub Profile. I am currently in 2nd Year in Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines. I have experience in Python, C#, and Java Programming. Dedicated to any project that I handle, full of curiosity to explore different programming languages, and I am energized in challenges that I need to solve. I am currently working on a project for our final requirement in mobile development about tracking of moods. 
 
 <!--
 **spadedev/spadedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
