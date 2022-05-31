@@ -3,7 +3,7 @@ Welcome to my GitHub Profile. I am currently in 2nd Year in Bachelor of Science 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spadedev)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spadedev&show_icons=true&theme=radical)
 
 <!--
 
